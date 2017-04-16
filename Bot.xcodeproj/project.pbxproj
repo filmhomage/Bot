@@ -266,7 +266,7 @@
 				DEVELOPMENT_TEAM = 67PV5N339K;
 				INFOPLIST_FILE = Bot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xcodebot.com.kokaru.Bot;
+				PRODUCT_BUNDLE_IDENTIFIER = bot.com.kokaru;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -279,7 +279,7 @@
 				DEVELOPMENT_TEAM = 67PV5N339K;
 				INFOPLIST_FILE = Bot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = xcodebot.com.kokaru.Bot;
+				PRODUCT_BUNDLE_IDENTIFIER = bot.com.kokaru;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
